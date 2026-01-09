@@ -2741,33 +2741,33 @@ $s.innerHTML = `
  <p><strong>דוגמאות</strong></p>
  <div class="example">
  <div class="row">
- <game-tile letter="ר" evaluation="correct" reveal></game-tile>
- <game-tile letter="ו"></game-tile>
+ <game-tile letter="ל" evaluation="correct" reveal></game-tile>
+ <game-tile letter="י"></game-tile>
  <game-tile letter="א"></game-tile>
- <game-tile letter="י"></game-tile>
- <game-tile letter="ל"></game-tile>
- </div>
- <p>האות <strong>ר</strong> היא בתוך המילה ונמצאת במקום הנכון</p>
- </div>
- <div class="example">
- <div class="row">
- <game-tile letter="ה"></game-tile>
- <game-tile letter="ד" evaluation="present" reveal></game-tile>
- <game-tile letter="י"></game-tile>
- <game-tile letter="ל"></game-tile>
- <game-tile letter="ג"></game-tile>
- </div>
- <p>האות <strong>ד</strong> היא במילה אבל במקום הלא נכון</p>
- </div>
- <div class="example">
- <div class="row">
- <game-tile letter="ן"></game-tile>
  <game-tile letter="ו"></game-tile>
- <game-tile letter="מ"></game-tile>
- <game-tile letter="ע" evaluation="absent" reveal></game-tile>
- <game-tile letter="פ"></game-tile>
+ <game-tile letter="ר"></game-tile>
  </div>
- <p>האות <strong>ע</strong> לא נמצאת במילה בשום מקום</p>
+ <p>האות <strong>ל</strong> היא בתוך המילה ונמצאת במקום הנכון</p>
+ </div>
+ <div class="example">
+ <div class="row">
+ <game-tile letter="ע"></game-tile>
+ <game-tile letter="ר" evaluation="present" reveal></game-tile>
+ <game-tile letter="י"></game-tile>
+ <game-tile letter="כ"></game-tile>
+ <game-tile letter="ה"></game-tile>
+ </div>
+ <p>האות <strong>ר</strong> היא במילה אבל במקום הלא נכון</p>
+ </div>
+ <div class="example">
+ <div class="row">
+ <game-tile letter="י"></game-tile>
+ <game-tile letter="ל"></game-tile>
+ <game-tile letter="ד"></game-tile>
+ <game-tile letter="ו" evaluation="absent" reveal></game-tile>
+ <game-tile letter="ת"></game-tile>
+ </div>
+ <p>האות <strong>ו</strong> לא נמצאת במילה בשום מקום</p>
  </div>
  </div>
  <p><strong>!חמש אותיות חדש יהיה זמין בכל יום<strong></p>
